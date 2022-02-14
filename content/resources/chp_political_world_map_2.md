@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Image
 title: Political Map of the World
+type: OCWImage
 uid: 9313e254-543a-11a9-0692-1cc43407461f
 ---
